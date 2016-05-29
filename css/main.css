@@ -1,0 +1,28 @@
+body{
+	/*background-color: #D8DFDE;*/
+}
+.background{
+	 background: url("../img/background.jpg") no-repeat fixed center center / cover;
+  height:200px;
+}
+
+h2{
+	font-family: 'Raleway', sans-serif;
+}
+h4{
+	font-family: 'Raleway',sans-serif ;
+	font-style: 200 italic;
+}
+.item.thumbnail{
+	text-align: center;
+
+margin: 10px;
+padding:6px;
+}
+img.img-responsive{
+	height:340px;
+
+}
+.btn.btn-lg{
+	color: white;
+}
